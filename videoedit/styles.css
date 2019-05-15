@@ -1,0 +1,35 @@
+#main-area {
+	width: 80%;
+	margin: 0 auto;
+	paddig: 20px;
+	font-family: Arial;
+}
+
+#form-contents {
+	font-size: 14px;
+}
+
+label, input, select {
+	margin-bottom: 10px;
+}
+label {
+	font-weight: bold;
+}
+input[type="submit"] {
+	width: 125px;
+}
+a, a:hover {
+	display: inline-block;
+	text-decoration: none;	
+}
+a, input[type="submit"] {
+	background: #0073aa;
+	padding: 5px;
+	border-radius: 2px;
+	box-shadow: 0 2px 0 2px #333333;
+	color: #fff;
+	cursor: pointer;
+}
+span {
+	display: block;
+}
