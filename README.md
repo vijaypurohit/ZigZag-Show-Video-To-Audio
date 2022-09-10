@@ -1,26 +1,26 @@
-#The ZigZag Show    
-Hello, 
-Why This Name? Well it is related with waveforms of audio files.
+# The ZigZag Show    
+Hello Everyone, 
+First of all why this name? Well it is related with waveforms of audio files.
 
-##About Project
-This Project basically takes video file and convert it to audio format (mp3, aac, wav).
-
-This also converts the input wav file into mp3.
+## About Project
+* Takes video file as input and convert it to audio format (mp3, aac, wav).
+* Also converts the input wav file into mp3.
 
 I kept it simple to understand the working process.
 
-#####INPUT
+### Input
 * Any Video Format
 * WAV Format
 * Recorded Audio
 
-#####OUTPUT
+### Output
 * AUDIO FORMAT
 * Waveform Image
 * Download Option
 * Play Option
 
-#####Libraries Used
+### Libraries Used
 * PHP ffmpeg
 * Record RTC
+
 ![Demo](videoedit/demo.png)
